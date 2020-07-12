@@ -12,9 +12,8 @@ A + or - sign could be appended infront of the keywork to include or exclude res
 
 example: +"webcam" -"login" 
 
-This will give results which are related to webcam that do not have "login" in them.  
-
-
+This will give results which are related to webcam that do not have "login" in them.
+<br/><br/>
 
 #### Physical Location
 
@@ -122,10 +121,9 @@ This will give results which are related to webcam that do not have "login" in t
 
 </div>
 
-<div id="177d96b0-0199-4c16-895f-bc8f6a9f664d" class="collection-content">  
-
-
-
+<div id="177d96b0-0199-4c16-895f-bc8f6a9f664d" class="collection-content">
+<br/><br/>
+  
 #### IP Addresses & Subnets
 
 <table class="collection-content">
@@ -223,9 +221,8 @@ This will give results which are related to webcam that do not have "login" in t
 </div>
 
 <div id="8628e19e-4ef9-4eb7-9a51-290b5266a91e" class="collection-content">
-
-
-
+<br/><br/>
+  
 #### Products & Operating Systems
 
 <table class="collection-content">
@@ -313,7 +310,7 @@ This will give results which are related to webcam that do not have "login" in t
 </div>
 
 <div id="e28868f9-1851-4564-94da-0f15163aaf02" class="collection-content">
-
+<br/><br/>
 
 
 #### Web Applications
@@ -393,7 +390,7 @@ This will give results which are related to webcam that do not have "login" in t
 </div>
 
 <div id="1f82bb7f-5df5-4cb7-9f64-0e3dbd77076d" class="collection-content">
-
+<br/><br/>
 
 
 #### Other
@@ -471,7 +468,7 @@ This will give results which are related to webcam that do not have "login" in t
 </table>
 
 </div>
-
+<br/><br/>
 
 
 ### Interesting Search Queries
@@ -479,7 +476,7 @@ This will give results which are related to webcam that do not have "login" in t
 *   To be updated.
 
 </div>
-
+<br/><br/>
 
 
 
