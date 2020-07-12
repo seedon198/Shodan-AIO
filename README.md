@@ -12,7 +12,7 @@ A + or - sign could be appended infront of the keywork to include or exclude res
 
 example: +"webcam" -"login" 
 
-This will give results which are related to webcam that do not have "login" in them.
+This will give results which are related to webcam that do not have "login" in them.  
 
 
 
@@ -122,7 +122,7 @@ This will give results which are related to webcam that do not have "login" in t
 
 </div>
 
-<div id="177d96b0-0199-4c16-895f-bc8f6a9f664d" class="collection-content">
+<div id="177d96b0-0199-4c16-895f-bc8f6a9f664d" class="collection-content">  
 
 
 
