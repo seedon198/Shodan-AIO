@@ -14,6 +14,8 @@ example: +"webcam" -"login"
 
 This will give results which are related to webcam that do not have "login" in them.
 
+
+
 #### Physical Location
 
 <table class="collection-content">
@@ -122,6 +124,8 @@ This will give results which are related to webcam that do not have "login" in t
 
 <div id="177d96b0-0199-4c16-895f-bc8f6a9f664d" class="collection-content">
 
+
+
 #### IP Addresses & Subnets
 
 <table class="collection-content">
@@ -220,6 +224,8 @@ This will give results which are related to webcam that do not have "login" in t
 
 <div id="8628e19e-4ef9-4eb7-9a51-290b5266a91e" class="collection-content">
 
+
+
 #### Products & Operating Systems
 
 <table class="collection-content">
@@ -308,6 +314,8 @@ This will give results which are related to webcam that do not have "login" in t
 
 <div id="e28868f9-1851-4564-94da-0f15163aaf02" class="collection-content">
 
+
+
 #### Web Applications
 
 <table class="collection-content">
@@ -386,6 +394,8 @@ This will give results which are related to webcam that do not have "login" in t
 
 <div id="1f82bb7f-5df5-4cb7-9f64-0e3dbd77076d" class="collection-content">
 
+
+
 #### Other
 
 <table class="collection-content">
@@ -461,6 +471,8 @@ This will give results which are related to webcam that do not have "login" in t
 </table>
 
 </div>
+
+
 
 ### Interesting Search Queries
 
