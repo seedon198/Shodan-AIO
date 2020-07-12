@@ -468,4 +468,6 @@ This will give results which are related to webcam that do not have "login" in t
 
 </div>
 
+<sup>Reference: https://www.uk-osint.net/documents/Shodan_QuickStart_v1.pdf</sup>
+
 </article>
