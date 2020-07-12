@@ -393,7 +393,7 @@ This will give results which are related to webcam that do not have "login" in t
 <br/><br/>
 
 
-#### Other
+#### Misc
 
 <table class="collection-content">
 
